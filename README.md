@@ -22,7 +22,7 @@ I enjoy experimenting with system configurations, troubleshooting issues, and le
 🛠️ Scripting & Automation
 
     Created Bash scripts to automate network switching between bridged (isolated) and NAT (internet-accessible) environments.
-    Learning how to write better scripts and automate repetitive tasks as I continue practicing.
+    Still learning how to improve and optimize Bash scripts beyond basic functionality.
 
 🔍 Cybersecurity & Hands-On Learning
 
