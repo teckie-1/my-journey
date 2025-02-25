@@ -3,7 +3,9 @@
 I am a second-year Computer Science student with a strong interest in Linux, cybersecurity, and IT infrastructure. While I am studying computer science in college, a lot of my practical skills have come from hands-on projects, online challenges, and self-taught learning through YouTube tutorials and technical blogs.
 
 I enjoy experimenting with system configurations, troubleshooting issues, and learning new tools by applying them in real-world scenarios. I'm still learning and improving, but I take on every challenge as an opportunity to grow my skill set.
-💡 What I’ve Been Working On
+
+💡 What I’ve Been Working On:
+
 🔧 Linux System Administration
 
     Installed and configured Arch Linux on multiple machines, troubleshooting hardware and software issues.
