@@ -21,7 +21,8 @@ I enjoy experimenting with system configurations, troubleshooting issues, and le
 
 🛠️ Scripting & Automation
 
-    Created Bash scripts to automate network switching between bridged (isolated) and NAT (internet-accessible) environments.
+    Created a script to update,upgrade,autoremove and, autoclean my proxmox server. Once it's done with that, it'll update/upgrade all running containers.
+    The script will also reboot containers and host if it needs to be.
     Still learning how to improve and optimize Bash scripts beyond basic functionality.
 
 🔍 Cybersecurity & Hands-On Learning
