@@ -16,7 +16,7 @@ Not theoretical. Everything here is running in production or was built to solve 
 - **Hypervisor**: Proxmox
 - **Firewall/Router**: OPNsense
 - **Switch**: Omada managed switch
-- **OS**: Arch Linux + SwayFX
+- **OS**: Arch Linux + SwayFX, EndeavourOS + SwayFX
 - **Editor**: Neovim
 - **Automation**: Ansible (in progress)
 
