@@ -1,6 +1,6 @@
 # My IT & Cybersecurity Learning Journey
 
-I’m Michael — a Cybersecurity and Information Assurance student at WGU, working full time as a camera systems tech. Most of what I know came from hands-on work: building things, breaking them, and figuring out why.
+I’m Michael — I work full time as a camera systems tech. Most of what I know came from hands-on work: building things, breaking them, and figuring out why.
 
 ## 🔧 Linux & System Administration
 
