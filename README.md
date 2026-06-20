@@ -16,7 +16,7 @@ Not theoretical. Everything here is running in production or was built to solve 
 - **Hypervisor**: Proxmox
 - **Firewall/Router**: OPNsense
 - **Switch**: Omada managed switch
-- **OS**: Arch Linux + SwayFX
+- **OS**: Arch Linux + SwayFX, EndeavourOS + SwayFX
 - **Editor**: Neovim
 - **Automation**: Ansible (in progress)
 
@@ -24,4 +24,4 @@ Not theoretical. Everything here is running in production or was built to solve 
 
 I came up through hands-on work — IP addressing, DVR/NVR systems, physical installs — while working on my cybersecurity education. That background shapes how I approach infrastructure: get it working, understand why it works, then secure it.
 
-[LinkedIn](https://www.linkedin.com/in/michael-mcknight-964274303/) | [GitHub](https://github.com/teckie-1)
+[LinkedIn](https://www.linkedin.com/in/michael-mcknight-964274303/)
