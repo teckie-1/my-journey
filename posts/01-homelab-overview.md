@@ -19,6 +19,8 @@ I am running Proxmox Virtual Environment. It has a X99 motherboard, 32GB of DDR4
 - SMB: Home file share.
 - Immich: Image and Video storage.
 
+![My homelab](images/homelab.png)
+
 ## What's next
 
 Next, I would like to build a honeypot. Details on the way..
