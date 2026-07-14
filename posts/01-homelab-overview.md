@@ -8,6 +8,8 @@ I started thinking about a homelab in 2023 when i was in school for Computer Sci
 
 I am running Proxmox Virtual Environment. It has a X99 motherboard, 32GB of DDR4 Ram, GTX 980 GPU (that really isn't in use for anything) 512GB M.2 NVME OS drive and 12TB HDD for all of the heavy lifting. For home networking, I now use a Sophos XG 135 Rev.3 Firewall running opnsense. A TP-link TL-SG2009P - Jetstream 8-port gigabit smart managed POE switch with a TP-link OC200 hardware controller for centralized management. I have one TP-link EAP650 access point with more to come soon.
 
+![My homelab](images/homelab.png)
+
 ## Services
 
 - Nextcloud: For family file storage.
@@ -18,8 +20,6 @@ I am running Proxmox Virtual Environment. It has a X99 motherboard, 32GB of DDR4
 - Homebridge: Brings my ESP devices into my Apple Home ecosystem.
 - SMB: Home file share.
 - Immich: Image and Video storage.
-
-![My homelab](images/homelab.png)
 
 ## What's next
 
