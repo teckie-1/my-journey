@@ -28,7 +28,7 @@ I’m Michael — I work full time as a camera systems tech. Most of what I know
 - ZNC - IRC bouncer
 - Cloudflared - Tunnel to expose certain services
 
-!! **My server (Abyss) had a catastrophic failure last Saturday (Oct.3).. It is looking like either the motherboard or cpu was at the end of it's life, I haven't really dug to far into it just yet. My new VPS is now running Immich, file server (Samba), Seafile, Forgejo, and Vaultwarden. New server build will be coming soon.
+!! **My server (Abyss) had a catastrophic failure last Saturday (Oct.3).. It is looking like either the motherboard or cpu was at the end of it's life, I haven't really dug to far into it just yet. My new VPS is now running Immich, file server (Samba), Seafile, Forgejo, and Vaultwarden. New server build will be coming soon.**
 
 ## 🔍 Cybersecurity & Hands-On Learning
 
